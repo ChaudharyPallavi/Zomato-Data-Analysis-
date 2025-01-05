@@ -77,8 +77,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 📧 Contact
 For queries or collaborations:
-- **Email**: yourname@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: pallavispnsc@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/pallavi-chaudhary-7a9702239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3yVIsdPBS8ysMaR%2BolDArw%3D%3D).
 
 ---
 
