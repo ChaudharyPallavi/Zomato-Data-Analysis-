@@ -5,6 +5,9 @@ Welcome to the **Zomato Dashboard Analysis** project! This repository showcases 
 ## 🌟 Project Overview
 The Zomato Dashboard provides actionable insights into the restaurant industry based on data like cuisines, locations, pricing, ratings, and delivery options. This interactive tool is designed for restaurant owners, foodies, and industry professionals to make informed decisions.
 
+## 📷 Main Dashboard View
+![Zomato Dashboard Analysis_page-0001](https://github.com/user-attachments/assets/f4298d68-1f9d-456f-9fd5-10b777614926)
+
 ### Key Metrics and Insights:
 - **Total Cities Analyzed**: 140
 - **Total Restaurants**: 7,424
@@ -49,22 +52,12 @@ The Zomato Dashboard provides actionable insights into the restaurant industry b
 ## 🚀 Getting Started
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/zomato-dashboard-analysis.git
+    git clone https://github.com/ChaudharyPallavi/zomato-dashboard-analysis.git
     ```
 2. Open the `.pbix` file in **Power BI Desktop**.
 3. Interact with the dashboard and explore the insights.
 
 ---
-
-## 📷 Screenshots
-### **Main Dashboard View**
-![Main Dashboard](https://github.com/ChaudharyPallavi/Zomato-Data-Analysis-/blob/2fe14a7a3f9a132def31fca7a06e0be4af7d9541/Zomato%20Dashboard%20Analysis.pdf)
-
-### **City-wise Analysis**
-![City-wise Analysis](https://via.placeholder.com/800x400?text=City+Analysis+Screenshot)
-
----
-
 ## 🤝 Contributions
 Contributions are welcome! Feel free to fork the repository, raise issues, or submit pull requests.
 
@@ -78,7 +71,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## 📧 Contact
 For queries or collaborations:
 - **Email**: pallavispnsc@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/pallavi-chaudhary-7a9702239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3yVIsdPBS8ysMaR%2BolDArw%3D%3D).
+- **LinkedIn**: [ My LinkedIn Profile](https://www.linkedin.com/in/pallavi-chaudhary-7a9702239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3yVIsdPBS8ysMaR%2BolDArw%3D%3D).
 
 ---
 
