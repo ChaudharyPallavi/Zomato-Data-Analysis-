@@ -58,7 +58,7 @@ The Zomato Dashboard provides actionable insights into the restaurant industry b
 
 ## 📷 Screenshots
 ### **Main Dashboard View**
-![Main Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
+![Main Dashboard](https://github.com/ChaudharyPallavi/Zomato-Data-Analysis-/blob/2fe14a7a3f9a132def31fca7a06e0be4af7d9541/Zomato%20Dashboard%20Analysis.pdf)
 
 ### **City-wise Analysis**
 ![City-wise Analysis](https://via.placeholder.com/800x400?text=City+Analysis+Screenshot)
